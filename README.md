@@ -23,8 +23,6 @@
 
 <hr>
 
-<br>
-
 <div align=center><h3>📚 Stack</h3></div>
 
 <div align=center>
@@ -48,5 +46,6 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-    
 </div>
+
+<br>
