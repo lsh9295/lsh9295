@@ -8,7 +8,7 @@
         
                                      And I'm dreaming of becoming an Android developer.
     
-                                I'm not good at development yet, but I will study very hard.
+                                I'm not good at development yet, but I am studying very hard.
 
                                                        believe me...
 
