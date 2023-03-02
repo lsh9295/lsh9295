@@ -1,16 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=E3DBEB&height=130&section=header&text=Seunghee%20LEE&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=soft&color=E3DBEB&height=130&section=header&text=Seunghee%20Lee&fontSize=60)
 
 <br>
 
 ```
 
-                                             Hello, my name is Seunghee Lee!
-        
-                                     And I'm dreaming of becoming an Android developer.
-    
-                                I'm not good at development yet, but I am studying very hard.
-
-                                                       believe me...
+                                             Hello, my name is Seunghee Lee!                                  
+                                  It is my dream to become a developer without limits.
 
 ```
 
@@ -26,7 +21,7 @@
 <div align=center><h3>📚 Stack</h3></div>
 
 <div align=center>
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
+    <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
     <img src="https://img.shields.io/badge/kotlin-AF69EF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
     <img src="https://img.shields.io/badge/Java-F09820?style=for-the-badge&logo=java&logoColor=white">
     <br>
