@@ -62,7 +62,7 @@
 
 <br>
 
-<div align=center><h2>📚 Cowork Tools</h2></div>
+<div align=center><h2>📚 Collaboration Tools</h2></div>
 <div align=center>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Jira Software-0052CC?style=for-the-badge&logo=Jira Software&logoColor=white">
