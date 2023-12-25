@@ -2,15 +2,6 @@
 
 <br>
 
-```
-
-                                             Hi! My name is Seunghee Lee.                                
-                                  My dream is to become a developer without limits.
-
-```
-
-<br>
-
 ![lsh9295's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsh9295&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsh9295&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
